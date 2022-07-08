@@ -1,6 +1,6 @@
 # Resume Theme
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/gasatrya/resume/blob/main/README.md)
 
 Resume is a resume theme built with Bootstrap 5. Features a free clutter design, easy to use, and responsive.
 
