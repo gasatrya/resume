@@ -1,0 +1,43 @@
+{
+  "name": "resume",
+  "version": "0.1.0",
+  "description": "Bootstrap 5 resume HTML theme.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "gulp",
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gasatrya/resume.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "theme"
+  ],
+  "author": "Ga Satrya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gasatrya/resume/issues"
+  },
+  "homepage": "https://github.com/gasatrya/resume#readme",
+  "devDependencies": {
+    "@prettier/plugin-pug": "^2.1.1",
+    "autoprefixer": "^10.4.7",
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2",
+    "gulp-postcss": "^9.0.1",
+    "gulp-prettier": "^4.0.0",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "postcss": "^8.4.14",
+    "sass": "^1.53.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1"
+  },
+  "browserslist": [
+    "defaults"
+  ]
+}
